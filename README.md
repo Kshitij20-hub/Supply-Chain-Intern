@@ -1,7 +1,7 @@
-# Supply Chain Analyst – Case New Holland (CNH) 
+# Supply Chain Intern – Case New Holland (CNH) 
 
 ## Overview
-Worked as a Supply Chain Analyst at CNH Industrial, supporting forecasting, logistics, and KPI monitoring across Indian and European operations.
+Worked as a Supply Chain Intern at CNH Industrial, supporting forecasting, logistics, and KPI monitoring across Indian and European operations.
 
 ## Key Contributions
 - Reduced order delays by 10% through optimized supply forecasting.
